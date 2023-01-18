@@ -1,0 +1,39 @@
+_repo: Shadows-and-sunbeams-Being-a-second-series-of-Fern-leaves-from-Fannys-portfolio_69784
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Thomas, George, Sir
+    birthdate: 1695
+    deathdate: 1774
+    gutenberg_agent_id: '8163'
+    url: http://www.gutenberg.org/2009/agents/8163
+creator:
+  author:
+    agent_name: Fern, Fanny
+    aliases:
+    - Parton, Sara Payson Willis
+    - Willis, Grata Payson
+    birthdate: 1811
+    deathdate: 1872
+    gutenberg_agent_id: '9387'
+    url: http://www.gutenberg.org/2009/agents/9387
+    wikipedia: https://en.wikipedia.org/wiki/Fanny_Fern
+description: ''
+gutenberg_issued: '2023-01-13'
+identifiers:
+  gutenberg: '69784'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/006775557
+pgterms:marc905: 20201226154651fern
+pgterms:marc906: '1854'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: 'United Kingdom: W. S. Orr,1854.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Shadows and sunbeams: Being a second series of Fern leaves from Fanny’s portfolio'
+url: http://www.gutenberg.org/ebooks/69784
