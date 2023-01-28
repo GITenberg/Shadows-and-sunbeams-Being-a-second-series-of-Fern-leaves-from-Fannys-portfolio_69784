@@ -7,6 +7,9 @@ contributor:
     deathdate: 1774
     gutenberg_agent_id: '8163'
     url: http://www.gutenberg.org/2009/agents/8163
+covers:
+- cover_type: archival
+  image_path: 69784-h/images/cover.jpg
 creator:
   author:
     agent_name: Fern, Fanny
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9387
     wikipedia: https://en.wikipedia.org/wiki/Fanny_Fern
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69784#Shadows-and-sunbeams-Being-a-second-series-of-Fern-leaves-from-Fannys-portfolio
 gutenberg_issued: '2023-01-13'
 identifiers:
   gutenberg: '69784'
